@@ -51,3 +51,5 @@ samp.ban
 components
 
 *.sublime-workspace
+#log
+log
